@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gst-debugger master\n"
 "Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gst-debugger/issues/\n"
-"POT-Creation-Date: 2024-04-07 15:41+0000\n"
-"PO-Revision-Date: 2024-05-03 09:29+0200\n"
+"POT-Creation-Date: 2024-05-03 07:30+0000\n"
+"PO-Revision-Date: 2024-06-01 10:55+0200\n"
 "Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
 "Language-Team: Slovenian GNOME Translation Team <gnome-si@googlegroups."
 "com>\n"
@@ -103,9 +103,8 @@ msgid "Remote Factories"
 msgstr "Oddaljene tovarne"
 
 #: src/gst-debugger/dialogs/factories_dialog.cpp:58
-#, fuzzy
 msgid "Pad templates"
-msgstr "Predloge pad"
+msgstr "Predloge ploščic"
 
 #: src/gst-debugger/dialogs/enums_dialog.cpp:21
 #: src/gst-debugger/modules/base_main_module.cpp:56
@@ -130,9 +129,8 @@ msgid "Property Value"
 msgstr "Vrednost lastnosti"
 
 #: src/gst-debugger/modules/gst_properties_module.cpp:230
-#, fuzzy
 msgid "Peer pad"
-msgstr "Pad soležnika"
+msgstr "Ploščica soležnika"
 
 #: src/gst-debugger/modules/gst_properties_module.cpp:234
 #: src/gst-debugger/modules/gst_properties_module.cpp:239
@@ -180,9 +178,8 @@ msgstr "zaporedna številka dogodka"
 
 #: src/gst-debugger/modules/event_module.cpp:30
 #: src/gst-debugger/modules/query_module.cpp:24
-#, fuzzy
 msgid "sent from pad"
-msgstr "poslano iz pada"
+msgstr "poslano iz ploščice"
 
 #: src/gst-debugger/modules/event_module.cpp:38
 msgid "Event of type: "
@@ -207,12 +204,10 @@ msgid "Buffers"
 msgstr "Medpomnilniki"
 
 #: src/gst-debugger/modules/buffer_module.cpp:28
-#, fuzzy
 msgid "Pts"
-msgstr "Pts/Točke"
+msgstr "Pts"
 
 #: src/gst-debugger/modules/buffer_module.cpp:29
-#, fuzzy
 msgid "Dts"
 msgstr "Dts"
 
@@ -360,9 +355,8 @@ msgid "Can't get into the element. Element is not selected."
 msgstr "Ni mogoče vstopiti v element. Element ni izbran."
 
 #: src/gst-debugger/pipeline-drawer/graph_module.cpp:177
-#, fuzzy
 msgid "Can't get into the element. Selected element is a pad."
-msgstr "Ni mogoče vstopiti v element. Izbrani element je pad."
+msgstr "Ni mogoče vstopiti v element. Izbrani element je ploščica."
 
 #: src/gst-debugger/gvalue-converter/gvalue_flags.cpp:30
 #: src/gst-debugger/gvalue-converter/gvalue_enum.cpp:29
@@ -443,7 +437,6 @@ msgid "Selected element:"
 msgstr "Izbrani element:"
 
 #: src/gst-debugger/ui/gst-debugger.glade:401
-#, fuzzy
 msgid "Current bin: "
 msgstr "Trenutni koš:"
 
